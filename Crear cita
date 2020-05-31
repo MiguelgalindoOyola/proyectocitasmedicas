@@ -1,6 +1,5 @@
 div class = "tarjeta mb-3"> 
 <!DOCTYPE html>
-head
     <div class = "card-header">	
         <i class = "fa fa-table"> </i> Listado Citas </div>	
     <div class = "card-body">	
